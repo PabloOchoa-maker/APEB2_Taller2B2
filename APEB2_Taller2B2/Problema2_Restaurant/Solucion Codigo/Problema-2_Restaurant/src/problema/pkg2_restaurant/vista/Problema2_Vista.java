@@ -7,12 +7,6 @@ import problema.pkg2_restaurant.modelo.Problema2_MenuDia;
 import problema.pkg2_restaurant.modelo.Problema2_MenuEconomico;
 import problema.pkg2_restaurant.modelo.Problema2_MenuNino;
 
-/**
- * Vista (clase principal): crea los menus con valores predeterminados,
- * los calcula y muestra el valor inicial, el calculo y el valor final.
- *
- * @author user
- */
 public class Problema2_Vista {
 
     public static void main(String[] args) {
